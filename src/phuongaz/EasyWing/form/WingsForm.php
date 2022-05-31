@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace phuongaz\EasyWing\form;
 
 use pocketmine\player\Player;
-use Vecnavium\FormsUI\SimpleForm;
+use jojoe77777\FormAPI\SimpleForm;
 use phuongaz\EasyWing\Loader;
 
 Class WingsForm{
