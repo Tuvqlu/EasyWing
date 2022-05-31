@@ -4,7 +4,7 @@ branches:
 - master
 projects:
   EasyWing:
-    iocn: icon.png
+    icon: icon.png
     path: ""
     libs:
     - src: jojoe77777/FormAPI/libFormAPI
