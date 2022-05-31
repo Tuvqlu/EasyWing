@@ -6,9 +6,4 @@ projects:
   EasyWing:
     icon: icon.png
     path: ""
-    libs:
-    - src: jojoe77777/FormAPI/libFormAPI
-      version: ^1.3.0
-    - src: phuongaz/EasyWing/libs
-      version: ^1.0.0
 ...
