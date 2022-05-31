@@ -4,9 +4,6 @@ branches:
 - master 
 projects:
   EasyWing: 
-    iocn: icon.png
+    icon: icon.png
     path: ""
-    libs:
-    - src: Vecnavium/FormsUI
-      version: ^2.0.0 
 ...
