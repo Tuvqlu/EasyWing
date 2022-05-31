@@ -3,10 +3,10 @@ build-by-default: true
 branches:
 - master 
 projects:
-  EasyWing:
+  EasyWing: 
     iocn: icon.png
     path: ""
     libs:
     - src: Vecnavium/FormsUI/libFormsUI
-       version: ^2.0.0
+       version: ^2.0.0 
 ...
